@@ -1,6 +1,6 @@
-# Feb-repo
+# Feb-repo Project Title: Branching and Merging in Git
 
-Project Title: Branching and Merging in Git
+
 
 Objective: Learn how to create branches, make changes, merge them back into the main branch, and resolve conflicts in Git.
 
